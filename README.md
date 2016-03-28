@@ -1,1 +1,3 @@
 # seafight
+
+Запускать game.py
